@@ -1,0 +1,12 @@
+Blah blah blah
+def FoodStuffs(a, b, c):
+  a = a*4
+  b = b**2
+  c = c - 739
+  print("A is" + str(a))
+  print("B is " + str(b))
+  print("C is " + str(c))
+  return
+  
+  
+  
